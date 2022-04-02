@@ -11,9 +11,14 @@ body {
     font-weight: bold;
 }
 .tamanhoDeFontesDeLista {
-    font-size: 30px;
+    font-size: 30px
 }
 
-div {
-    border: 2px solid green;
+
+.MeuNome {
+    background-color: red;
+}
+
+.MinhaDescrição {
+    background-color: red;
 }
