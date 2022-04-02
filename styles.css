@@ -2,7 +2,6 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 body {
-    background-color: aqua;
     font-family: Arial, Helvetica, sans-serif;
 }
     #minhafoto{
@@ -13,4 +12,8 @@ body {
 }
 .tamanhoDeFontesDeLista {
     font-size: 30px;
+}
+
+div {
+    border: 2px solid green;
 }
