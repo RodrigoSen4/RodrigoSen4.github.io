@@ -1,0 +1,16 @@
+.Descrição {
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+    #minhafoto{
+        border-radius: 700px;
+    }
+.Palavradestacada {
+    font-weight: bold;
+}
+.tamanhoDeFontesDeLista {
+    font-size: 30px;
+}
