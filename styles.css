@@ -1,24 +1,43 @@
-.Descrição {
+#Descrição {
     font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    top: 38%;
+    left: 20%;
+}
+
+#DescriçaoTexto {
+    position: absolute;
 }
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
-    #minhafoto{
-        border-radius: 700px;
-    }
+
 .Palavradestacada {
     font-weight: bold;
 }
 .tamanhoDeFontesDeLista {
-    font-size: 30px
+    font-size: 20px
 }
 
+div {
+    border: 2px solid green;
+}
+
+#minhafoto {
+    float: left;
+    padding: 5px;
+    background-color: blueviolet;
+}
+
+.descriçãoEconteudo {
+    height: 330px;
+    position: relative;
+}
 
 .MeuNome {
-    background-color: red;
+    text-align: center;
 }
 
-.MinhaDescrição {
-    background-color: red;
+ol li:nth-child(odd) {
+    background-color: blue;
 }
